@@ -1,0 +1,19 @@
+text,label
+"Congratulations! You won $1000. Click here now!",phishing
+"Verify your bank account immediately.",phishing
+"Your password has expired. Login now.",phishing
+"Claim your free gift card today.",phishing
+"Urgent! Your account has been suspended. Verify now.",phishing
+"Click the link below to update your banking information.",phishing
+"You have won a lottery prize. Claim it now!",phishing
+"Security alert: Login to secure your account.",phishing
+"Meeting scheduled for tomorrow at 10 AM.",safe
+"Project report attached for review.",safe
+"Thank you for your application.",safe
+"Let's have lunch tomorrow.",safe
+"Invoice attached for your records.",safe
+"Team meeting has been rescheduled.",safe
+"Please find the attached assignment.",safe
+"Your order has been delivered successfully.",safe
+"Happy Birthday! Have a wonderful day.",safe
+"Conference call starts at 3 PM.",safe
